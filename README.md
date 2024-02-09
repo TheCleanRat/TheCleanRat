@@ -1,3 +1,5 @@
+```python
+
 class TheCleanRat
 
     def __info__(self):
@@ -19,3 +21,4 @@ class TheCleanRat
             "javascript": "want to learn",
             "golang": "wtf is a GOLANG"
         } 
+```
