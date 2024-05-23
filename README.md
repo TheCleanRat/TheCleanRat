@@ -1,4 +1,4 @@
-```lua
+```php
 
 class TheCleanRat
 
