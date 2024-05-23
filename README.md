@@ -1,4 +1,4 @@
-```html
+```golang
 
 class TheCleanRat
 
