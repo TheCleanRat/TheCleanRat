@@ -1,4 +1,4 @@
-```c#
+```lua
 
 class TheCleanRat
 
