@@ -3,10 +3,11 @@
 class TheCleanRat
 
     def __info__(self):
-        self.bio = '''
-            A skid who is learning programing for fun.
-            I mainly program in java.'''
-        self.age = GO_AWAY_FED
+        self.bio = {
+            A skid who is learning programing for fun.,
+            I mainly program in java.''',
+        self.age = GO_AWAY_FED,
+    }
 
     def  __social__(self):
         self.discord = (username="xkemt")
