@@ -13,7 +13,7 @@ class TheCleanRat
         self.discord = (username="xkemt")
         self.youtube = ("@EDP445")
     
-    def __dev__(self):
+    def  __dev__(self):
         self.skills = {
             "python": "learning",
             "html": "not going to learn",
