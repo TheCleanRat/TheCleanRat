@@ -3,9 +3,10 @@
 class TheCleanRat
 
     def  __info__(self):
-        self.bio = '''
-            self.discription = A skid who is learning programing for fun.
-            self.strengths = I mainly program in java.'''
+        self.bio = {
+            "Description": "A skid who is learning programing for fun",
+            "Primary_Lang": "I mainly program in java",
+        } 
         self.age = GO_AWAY_FED
 
     def  __social__(self):
