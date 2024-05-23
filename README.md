@@ -2,7 +2,7 @@
 
 class TheCleanRat
 
-    def __info__(self):
+    def  __info__(self):
         self.bio = {
             A skid who is learning programing for fun.,
             I mainly program in java.''',
