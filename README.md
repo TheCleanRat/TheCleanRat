@@ -1,4 +1,4 @@
-```php
+```haskell
 
 class TheCleanRat
 
