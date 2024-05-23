@@ -1,4 +1,4 @@
-```golang
+```C++
 
 class TheCleanRat
 
